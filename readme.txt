@@ -1,3 +1,5 @@
+zancuiqun
+local
 1 ssh-add ~/.ssh/id_rsa_work
 11
 2 ssh-add ~/.ssh/id_rsa_work
