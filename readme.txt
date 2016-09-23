@@ -1,4 +1,5 @@
 1 ssh-add ~/.ssh/id_rsa_work
+00
 2 ssh-add ~/.ssh/id_rsa_work
 3 txt
 4 ttt
